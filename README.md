@@ -121,3 +121,8 @@ source /devel/setup.bash
 ```
 
 
+Implemented on Locobot with few changes, refer
+```
+python nav.py
+
+```
